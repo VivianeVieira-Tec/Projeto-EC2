@@ -61,5 +61,5 @@ LinkedIn: www.linkedin.com/in/viviane-vieira-de-souza
 <img src="images/Instância criada.png" width="800">
 <img src="images/Página da Instância Ec2.png" width="800">
 <img src="images/Página da InstânciaEc2.png" width="800">
-<img src="images/Página da Instância criada.png" width="800">
+<img src="images/Página da Instãncia criada.png" width="800">
 <img src="images/Teste de Imagem.png" width="800">
